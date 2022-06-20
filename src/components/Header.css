@@ -1,0 +1,14 @@
+.head {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    margin: 0 auto;
+    text-align: center;
+    width: 400px;
+}
+
+.line-border {
+    border-top: 5px dotted #827397;
+    width: 100%;
+    border-bottom: none;
+}

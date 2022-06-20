@@ -1,0 +1,36 @@
+.card-design {
+    margin: 20px 0;
+    background-color: #4D4C7D;
+    width: 70vh;
+    border-radius: 15px;
+    padding: 20px 10px;
+}
+
+.row {
+    display: flex;
+    color: #fff;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.thumbnail {
+    border-radius: 50%;
+    max-width: 150px;
+    text-align: left;
+}
+
+.pic {
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    margin: 20px 15px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    line-height: 1rem;
+    text-align: center;
+}
